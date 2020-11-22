@@ -1,4 +1,4 @@
-# TCC---Speech-Emotion-Recognition
+# TCC - Speech-Emotion-Recognition
 
 1. Faça o download da base RAVDESS: https://zenodo.org/record/1188976#.X7nNX2RKiRs
 
